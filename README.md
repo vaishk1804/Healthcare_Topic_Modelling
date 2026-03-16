@@ -188,7 +188,7 @@ Typical tools and libraries used across the notebooks include:
 
 ## Repository Structure
 
-````text
+```text
 .
 ├── LDA_thematic_.ipynb
 ├── Cardiology.ipynb
@@ -196,6 +196,7 @@ Typical tools and libraries used across the notebooks include:
 ├── Orthopedics.ipynb
 ├── healthRecords.ipynb
 └── README.md
+```
 
 ---
 
@@ -252,4 +253,4 @@ Interested in applied machine learning, natural language processing, healthcare 
 ## Final Summary
 
 This repository presents a combined view of healthcare-focused topic modeling projects that explored how Industry 4.0 technologies influenced modern healthcare research. By using **LDA, KeyBERT, and TF-IDF**, the project identified both broad Healthcare 4.0 themes and domain-specific patterns across cardiology, oncology, orthopedics, and health records.
-````
+```
